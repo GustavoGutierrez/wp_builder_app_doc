@@ -1,6 +1,6 @@
 # Estructura de Plugin
 
-├─** app**
+├─ **app**
 
 │   ├── **assets**
 
@@ -10,7 +10,7 @@
 
 │   │   │   └── app.css.map
 
-│   │   ├──** images**
+│   │   ├──**images**
 
 │   │   └──** js**
 
@@ -36,71 +36,49 @@
 
 │   │       ├── **scripts**
 
-
 │   │       │   ├── app.ts
-
 
 │   │       │   └── modules
 
-
 │   │       └── **styles**
-
 
 │   │           ├── app.css
 
-
 │   │           └── **modules**
-
 
 │   │               ├── \_foo.css
 
-
 │   │               └── \_foo.less
-
 
 │   └── **Views**
 
-
 │       ├── dummies.html
-
 
 │       ├── index.html
 
-
 │       └── **partials**
-
 
 │           └── dummy.html
 
 ├── **vendor**
 
-
 ├── composer.json
-
 
 ├── gulpfile.js
 
-
 ├── package.json
-
 
 ├── readme.md
 
-
 ├── **storage**
-
 
 │   ├── **cache**
 
-
 │   │   └── **views**
-
 
 │   └── temp
 
-
 ├── tsconfig.json
-
 
 └── wp-builder-app.php
 
