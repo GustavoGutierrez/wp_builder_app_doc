@@ -1,4 +1,7 @@
 # Aplicación
+[Como agregar acciones](add-action.md) |
+[Como agregar metabox](add-metabox.md)
+
 
 La carpeta **app** contiene todo el codigo de su aplicación en este puede crear los plugins que en conjunto conforman su aplicación tenga en cuenta que el pligin esta pensado cuando requiere desarrollar funcionalidades complejas que requieran de multiples de darrollo personalizado de plugins y funcionalidades que deden desarrollarse totalmente; solo en este caso wp builder app le sera de utilidad.
 
