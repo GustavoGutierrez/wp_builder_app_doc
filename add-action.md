@@ -22,3 +22,5 @@ class MyPlugin extends Plugin{
 
 
 
+[Como agregar metabox](add-metabox.md)
+

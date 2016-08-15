@@ -11,4 +11,5 @@ Como se ve en la grafica anterior el nombre del metodo debe empesar con metabox,
 Teca presente que dependiendo de la prioridad que se proporcione estos metabox seran agregados en orden acendente entre todos los metodos que cree dentro de la clase del plugin.
 
 
+[Como agregar acciones](add-action.md)
 
