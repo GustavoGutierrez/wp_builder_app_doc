@@ -1,4 +1,5 @@
 # Add Action
+[Ver Tabla de contendido](summary.md)
 
 Para agregar una acción desde la clase del plugin se debe seguir una convención de nombres esta convencion de nombre esta dada por lo siguiente:
 

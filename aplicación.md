@@ -1,4 +1,5 @@
 # Aplicación
+[Ver Tabla de contendido](summary.md)  |
 [Como agregar acciones](add-action.md) |
 [Como agregar metabox](add-metabox.md)
 
